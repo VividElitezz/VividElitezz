@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning to be a backend dev.
 - 💞️ I’m looking to collaborate on proxies!
-- 📫 How to reach me disocrd: vortexshade
+- 📫 How to reach me discord: vortexshade
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am 15
 
